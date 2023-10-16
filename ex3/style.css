@@ -1,0 +1,22 @@
+.shape {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 20%;
+  height: 40%;
+  border-radius: 50%;
+  background-image: linear-gradient(
+    180deg,
+    #ff000f,
+    #ff00fe,
+    #0f00ff,
+    #00d1fd,
+    #01ff9c,
+    #01ff06,
+    #baff00,
+    #fefb00,
+    #ff7700,
+    #ff0b04
+  );
+}

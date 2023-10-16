@@ -1,0 +1,21 @@
+.red-square {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  margin: 10px;
+}
+.blue-square {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  margin: 30px;
+}
+.yellow-square {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  margin: 50px;
+}

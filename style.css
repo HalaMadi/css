@@ -1,0 +1,9 @@
+.ex{
+    display: inline-block;
+    margin: 3px;
+    background-color: teal;
+    font-size: 25px;
+    color: white;
+    width: 10%;
+    padding: 10px;
+}

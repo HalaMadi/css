@@ -1,0 +1,21 @@
+.paragh,
+.parag2{
+    display: flex;
+}
+
+.prag1,
+.prag2{
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #000;
+}
+.prag4,
+.prag5{
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #000;
+}
+.container{
+    margin: 20px;
+    padding: 10px;
+}
